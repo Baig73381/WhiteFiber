@@ -1,0 +1,6 @@
+TaskA, 2, []
+TaskB, 3, []
+TaskC, 1, [TaskA, TaskB]
+TaskD, 4, [TaskA]
+TaskE, 2, [TaskC]
+TaskF, 3, [TaskD, TaskE]
